@@ -1,4 +1,4 @@
-# HearAttackAnalysisPrediction
+# HeartAttackAnalysisPrediction
 Predicting heart attack using machine learning
 
 This project explores the popular "Heart Attack Analysis & Prediction Dataset" from Kaggle using a simple approach. The main objective is to conduct exploratory data analysis (EDA) using data visualization techniques and apply machine learning algorithms for prediction purposes, comparing the results for learning purposes. Additionally, this project presents a discussion on the key findings and data used during this process.
